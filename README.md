@@ -12,7 +12,7 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 **Instructions to run the notebook:**
 
-1. Copy the dataset into `data/raw/` folder.
+1. Copy the dataset into `data/raw/` folder. The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
 
 2. Make sure that all the packages in `requirements.txt` file is installed.
 
