@@ -2,6 +2,10 @@
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
+# Dataset
+
+Data was obtained from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download).
+
 # Content
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
@@ -11,6 +15,4 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 # Assets
 
-**Practical handbook on Machine Learning for Credit Card Fraud Detection**
-
-https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html
+[Practical handbook on Machine Learning for Credit Card Fraud Detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html)
